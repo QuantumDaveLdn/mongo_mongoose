@@ -1,6 +1,6 @@
 const { MongoClient } = require('mongodb');
 
-const uri = "mongodb+srv://davronbecki44:hzUaTAM9joZDqKs5@cluster0.2lqntyj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const uri = //This is where the connection key goes. Due to privacy concerns I had to remove this part.
 const client = new MongoClient(uri);
 
 async function run() {
